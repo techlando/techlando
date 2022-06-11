@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Landon</h1>
 <h3 align="center">A passionate frontend developer from Dallas,Texas</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techlando" alt="techlando" /></a> </p>
+
 
 - 🔭 I’m currently working on [PokerThugs](https://github.com/techlando/pokerThugs)
 
