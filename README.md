@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Dallas, Texas</h3>
 
 
-<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
-
 - 🔭 I’m currently working on [PokerThugs](https://github.com/techlando/pokerThugs)
 
 - 🌱 I’m currently learning **Applied Computer Science**
