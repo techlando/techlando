@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Dallas, Texas</h3>
 
 
-[Mad The Internet GIF by MOODMAN
-](https://twitter.com/SpaceCatPics/status/1153654129224507392)
+[[Mad The Internet GIF by MOODMAN
+](https://twitter.com/SpaceCatPics/status/1153654129224507392)](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 - 🔭 I’m currently working on [PokerThugs](https://github.com/techlando/pokerThugs)
 
