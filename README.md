@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me: **landonphillipslandon@gmail.com** </h3>
-<p align="left">
+<h3 align="left">Connect with me: <a href="landonphillipslandon@gmail.com">landonphillipslandon@gmail.com</a></h3>
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
